@@ -1,7 +1,7 @@
 def valid_move
   if position_taken? between?(0, 8)
     true
-  elsif 
+  elsif
     false
   end
 end
